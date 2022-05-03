@@ -12,12 +12,15 @@ Hey i'm RIAD Abdelaziz. a 20 years old motivated web developement student at You
 </p>
 <br/>
 
+## Contcat Me
+<b>contactabdelaziz92@gmail.com</b>
+<br/>
+
 ## My Github Stats
   <br/>
     <a href="https://github.com/riad40/github
     -readme-stats"><img alt="Riad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=riad40&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/riad40/github-readme-stats"><img alt="Riad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riad40&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
 <br/>
 <a href="https://github.com/riad40/github-readme-activity-graph"><img alt="Riad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=riad40&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
