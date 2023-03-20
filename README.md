@@ -3,4 +3,4 @@
 
 ## About Me
 
-Hey i'm RIAD Abdelaziz. a 20 years old motivated web developement student at YouCode, I worked on several mini projects to learn the basics of how to create a website from scratch using php. currently i'm learning full stack javascript
+Hey i'm RIAD Abdelaziz. a 21 years old motivated web and mobile developement student at YouCode, I worked on several mini projects to learn the basics of how to create a website from scratch using php. currently i'm learning full stack javascript and react-native for building mbile apps
